@@ -1,6 +1,5 @@
 import { Box, Typography, makeStyles, GridList, GridListTile, Link } from "@material-ui/core"
 import { useState } from "react"
-import PerfectScrollbar from "react-perfect-scrollbar"
 
 const useStyles = makeStyles((theme) => ({
 
